@@ -1,6 +1,8 @@
 # Lab02 Distributed Git Experiment
 
 ## Information
+Name:ZhangSheng
+Student ID: 20242176
 Name:Wu Yuanjing
 Student ID:20242171
 
