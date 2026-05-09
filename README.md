@@ -3,6 +3,8 @@
 ## Information
 Name:
 Student ID:
+Name:       Zou Yaxian
+Student ID: 20242181
 
 ## Experiment Steps
 1. Created `x.txt`, `README.md` and `temp/hello.txt`
