@@ -1,8 +1,8 @@
 # Lab02 Distributed Git Experiment
 
 ## Information
-Name:
-Student ID:
+Name:ZouYaxian
+Student ID:20242181
 
 ## Experiment Steps
 1. Created `x.txt`, `README.md` and `temp/hello.txt`
