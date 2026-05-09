@@ -5,6 +5,7 @@
 |Name |Student ID | GitHub Name |
 |------|------|--------------|
 |Zhang Sheng|20242176|zishiluguo|
+|Wu Yuanjing|20242171|Yvette1018|
 
 
 ## Experiment Steps
